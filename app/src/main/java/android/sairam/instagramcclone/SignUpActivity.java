@@ -91,4 +91,10 @@ public class SignUpActivity extends AppCompatActivity {
 
 
     }
+
+
+    public void btnNextActivityTapped(View button) {
+
+    }
+
 }
